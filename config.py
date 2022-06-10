@@ -4,4 +4,3 @@ username = "taikhoanadmin"
 password = "12345678"
 ip_config = "192.168.1.1"
 
-<h1> this is fake info for test drp sytem
