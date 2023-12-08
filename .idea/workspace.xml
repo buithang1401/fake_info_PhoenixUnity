@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95b0ec7f-cfc2-4dae-ac96-ea0cdc8d2c1e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/json/phoenixunity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/phoenixunity" beforeDir="false" afterPath="$PROJECT_DIR$/json/vnpt_it" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654851530142</updated>
       <workItem from="1654851531637" duration="62000" />
-      <workItem from="1702011243695" duration="108000" />
+      <workItem from="1702011243695" duration="238000" />
     </task>
     <servers />
   </component>
